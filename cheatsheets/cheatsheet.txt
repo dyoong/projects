@@ -1,0 +1,47 @@
+Cheat Sheet for DRI
+ls
+lists files and folders in a directory
+cd ~ 
+goes back to root directory
+cd ..
+goes back one stage
+cd
+goes to a folder/file/ changes directory
+> 
+repository/redirects
+pwd
+prints where youre at
+mkdir
+creates a new folder
+touch
+creates new plaintext file
+echo
+prints text; used with ">" can create content in the file
+uparrow
+goes to previous command line
+cat
+shows content of file
+rm
+deletes files FOREVER
+<tab> 
+completes the file/folder name in the command line
+| pipes
+take the output of one command and use it as the input for another
+man
+manual for flags, i.e. what can you do
+explainshell.com 
+also explains the different commands
+ctrl c
+gets you out of tight spaces/gets you out of command that you're in 
+rev 
+reverse the order 
+sort
+sorts in alphabetical order, sort --help brings up menu of flags that allow more ways of sorting
+uniq 
+find and remove duplicate lines
+uniq -d
+shows you the duplicate lines
+grep 
+searches in data set e.g. grep "paris", add "-i" to ignore capitalization
+mv 
+move files also renames files
